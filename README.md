@@ -1,4 +1,4 @@
-# Ai Cloner Engine - Dev & Play Monetizer
+# Scrum Team Engine - Dev & Play Monetizer
 
 collaboration engine / social monetization protocol - PoC
 
